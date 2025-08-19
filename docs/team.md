@@ -6,13 +6,16 @@ The project is led by **Fori**, founder and technical coordinator, with proven e
 
 ## 🧑‍💼 Project Coordinator
 
-- **Name**: Fori  
+- **Name**: Hristofor Lyudmilov Hristov  
 - **Role**: Project Coordinator & Technical Lead  
+- **Background**:  
+  Network Operations Specialist with 5+ years of experience in cybersecurity, infrastructure, and Web technologies. Proven track record in LAN/WAN topologies, VPN configuration, and SIEM integration. Holds CCNA, MTCNA, and LPI certifications. MSc in Informatics (in progress).  
 - **Responsibilities**:
   - Project management and team coordination  
   - Communication with funding bodies  
   - Technical architecture and integration  
   - Documentation and reporting
+
 
 ---
 
