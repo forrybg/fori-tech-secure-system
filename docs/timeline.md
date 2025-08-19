@@ -59,3 +59,83 @@ The project spans 18 months, divided into three phases. Each phase delivers tech
 - Creates jobs and empowers local IT providers
 - Promotes digital inclusion and trust
 
+## ⚠️ Risk Management
+
+ForiTech Secure System acknowledges key risks across technical, operational, and strategic dimensions. Each risk is matched with mitigation strategies to ensure project continuity and success.
+
+### 🔧 Technical Risks
+
+- **Integration Complexity**  
+  *Risk*: Difficulty in integrating SIEM, Vault, and Web3 modules  
+  *Mitigation*: Modular architecture, early prototyping, and dedicated DevOps support
+
+- **AI Model Performance**  
+  *Risk*: Inaccurate anomaly detection or false positives  
+  *Mitigation*: Continuous training, SME feedback loops, fallback mechanisms
+
+### 🧑‍💼 Operational Risks
+
+- **Team Availability**  
+  *Risk*: Delays due to freelance turnover or recruitment gaps  
+  *Mitigation*: Flexible contracts, backup contributors, coordinator oversight
+
+- **Infrastructure Delays**  
+  *Risk*: Late deployment of VPN, cloud, or storage systems  
+  *Mitigation*: Early provisioning, vendor agreements, phased rollout
+
+### 📉 Strategic Risks
+
+- **SME Adoption Resistance**  
+  *Risk*: Low engagement from pilot clients or market hesitation  
+  *Mitigation*: Clear onboarding, training materials, and support channels
+
+- **Legal & Compliance Challenges**  
+  *Risk*: GDPR misalignment or licensing issues  
+  *Mitigation*: External legal advisory, audit trails, and documentation
+
+> Risk management is embedded in the project’s structure, with proactive planning, fallback options, and expert support ensuring resilience throughout the 18-month lifecycle.
+
+## 📈 KPIs & Expected Outcomes
+
+The success of ForiTech Secure System will be measured through a set of Key Performance Indicators (KPIs) aligned with technical delivery, SME engagement, and long-term sustainability.
+
+### 🧪 Technical KPIs
+
+- ✅ SIEM module deployed and tested by Month 6
+- ✅ Vault system integrated with Web3 licensing by Month 9
+- ✅ Client dashboard (UI/UX) finalized and functional by Month 10
+- ✅ AI/ML anomaly detection engine operational by Month 14
+
+### 🤝 SME Engagement KPIs
+
+- ✅ Minimum 5 SMEs onboarded for pilot testing
+- ✅ 80% of pilot users report improved security visibility
+- ✅ 3 Letters of Intent signed for post-grant adoption
+
+### 🌱 Sustainability KPIs
+
+- ✅ Subscription model defined and validated by Month 16
+- ✅ Open-source modules published on GitHub by Month 18
+- ✅ At least one co-financing or accelerator application submitted
+
+### 📊 Reporting & Compliance KPIs
+
+- ✅ Monthly technical reports delivered to EC
+- ✅ GDPR audit completed and documented
+- ✅ Final impact report submitted at project closure
+
+> These KPIs ensure that the project delivers measurable value, maintains transparency, and builds a foundation for long-term growth beyond the grant period.
+
+###    Strategic Milestones
+
+Month	        KPI	                        Description    	                            Responsible
+Month 3	        SME Outreach	                Initial contact with pilot SMEs initiate    Project Coordinator
+Month 6	        SIEM Module Deployed	        Core SIEM system operational and tested	    DevOps Engineer
+Month 7	        Vault + Web3 Integration	License engine connected to Vault	    Full-stack Developers
+Month 9	        UI/UX Finalized	                Client dashboard ready for pilot users	    UI/UX Designer
+Month 10	Pilot Testing Begins	        SMEs onboarded and using the system	    Business Analyst
+Month 12	Feedback Analysis        	SME feedback collected and analyzed	    Marketing + Analyst
+Month 14	AI/ML Engine Operational	Anomaly detection module active	            AI/ML Engineer
+Month 16	Subscription Model Defined	Commercial model prepared for launch	    Project Coordinator
+Month 17	Open-source Release	        Selected modules published on GitHub	    Full-stack + DevOps
+Month 18	Final Impact Report	        Submitted to EC with KPIs and outcomes	    Project Coordinator
