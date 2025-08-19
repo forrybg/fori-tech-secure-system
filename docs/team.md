@@ -48,3 +48,9 @@ The project is led by **Fori**, founder and technical coordinator, with proven e
 - Pilot clients ready for testing and feedback  
 - Scalable team structure for future expansion  
 - Legal firm ensures compliance with EU regulations
+
+### 📌 Notes
+
+- Roles marked “To be recruited” will be filled upon grant approval via freelance contracts or partner organizations  
+- The coordinator will temporarily oversee unfilled roles during the initial phase  
+- External consultants may be engaged for specialized tasks (e.g. AI, legal, accounting)
