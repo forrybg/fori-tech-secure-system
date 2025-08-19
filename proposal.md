@@ -79,6 +79,9 @@ No existing solution combines these technologies in a unified platform.
 
 ## 👥 Team & Capacity
 
+### Project Coordinator
+
+**Hristofor Lyudmilov Hristov** – Network Operations Specialist with extensive experience in cybersecurity, infrastructure, and Web technologies. He has worked in telecom and global support environments, and holds certifications including CCNA, MTCNA, and LPI. Currently pursuing an MSc in Informatics, he leads the project with a focus on secure architecture, compliance, and innovation.
 - Project Coordinator: Fori – technical and administrative lead
 - Team: 6–8 members (developers, DevOps, UI/UX, marketing, AI)
 - Legal: External consultancy firm for GDPR, licensing, ethics
