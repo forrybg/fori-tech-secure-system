@@ -1,6 +1,6 @@
 # 👥 Team & Capacity – Fori Tech Secure System
 
-The project is led by **Fori**, founder and technical coordinator, with proven experience in secure systems, Web3 architecture, and DevOps infrastructure. The team consists of 6–8 key professionals working remotely, supported by an external legal advisory firm.
+The project is led by **Hristofor**, founder and technical coordinator, with proven experience in secure systems, Web3 architecture, and DevOps infrastructure. The team consists of 6–8 key professionals working remotely, supported by an external legal advisory firm.
 
 ---
 
