@@ -133,3 +133,22 @@ After project completion:
 - Expansion via ForiVault Network and NFT marketplace
 - Potential for new grants and international partnerships
 
+ForiTech Secure System is designed with long-term viability in mind. Beyond the 18-month funded period, the project will continue to evolve through commercial partnerships, open-source contributions, and SME adoption.
+
+### 🔄 Post-Grant Continuity
+
+- **Commercial Deployment**: The system will be offered to SMEs and IT service providers as a subscription-based solution, ensuring revenue generation and scalability.
+- **Maintenance & Updates**: Core components (SIEM, Vault, Web3 modules) will be maintained by the founding team and supported by freelance contributors.
+- **Open-Source Modules**: Selected parts of the system (e.g., dashboard UI, monitoring agents) will be released under permissive licenses to encourage community growth.
+
+### 🤝 Strategic Partnerships
+
+- Letters of intent from SMEs and IT firms confirm interest in piloting and adopting the system post-grant.
+- ForiTech will seek co-financing and accelerator support to expand into new EU markets.
+
+### 📈 Growth Potential
+
+- The modular architecture allows integration with existing cybersecurity platforms.
+- The system is GDPR-compliant and designed for multi-tenant environments, making it suitable for MSPs and enterprise clients.
+
+> Sustainability is embedded in the project's architecture, business model, and community strategy. The grant serves as a launchpad, not a dependency.
