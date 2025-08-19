@@ -90,19 +90,36 @@ No existing solution combines these technologies in a unified platform.
 
 ---
 
-## 💰 Budget
+## 💰 Budget Allocation – ForiTech Secure System
 
-Total: €2,000,000
+The total requested grant is **€2,000,000**, distributed across seven strategic categories to ensure technical feasibility, team sustainability, and compliance with EU funding standards.
 
-| Category                     | Amount (€) | % of Budget |
-|-----------------------------|------------|-------------|
-| Salaries                    | 900,000    | 45%         |
-| Infrastructure & Equipment  | 200,000    | 10%         |
-| Development & Licensing     | 300,000    | 15%         |
-| Marketing & Communication   | 150,000    | 7.5%        |
-| Testing & Pilots            | 150,000    | 7.5%        |
-| Administration & Consulting | 150,000    | 7.5%        |
-| Legal Advisory Firm         | 150,000    | 7.5%        |
+### 📊 Budget Breakdown
+
+| **Category**                  | **Amount (€)** | **% of Total Budget** |
+|------------------------------|----------------|------------------------|
+| Salaries                     | €900,000       | 45%                   |
+| Infrastructure & Equipment   | €200,000       | 10%                   |
+| Development & Licensing      | €300,000       | 15%                   |
+| Marketing & Communication    | €150,000       | 7.5%                  |
+| Testing & Pilots             | €150,000       | 7.5%                  |
+| Administration & Consulting  | €150,000       | 7.5%                  |
+| Legal Advisory Firm          | €150,000       | 7.5%                  |
+| **Total**                    | **€2,000,000** | **100%**              |
+
+### 🧁 Visual Representation
+
+The chart below illustrates the proportional distribution of the budget:
+
+**🟣 Salaries – 45%**  
+**🟡 Development & Licensing – 15%**  
+**🔵 Infrastructure & Equipment – 10%**  
+**🟠 Marketing & Communication – 7.5%**  
+**🟢 Testing & Pilots – 7.5%**  
+**🔴 Administration & Consulting – 7.5%**  
+**⚫ Legal Advisory Firm – 7.5%**
+
+> This allocation ensures that the core team is sustainably funded, infrastructure is deployed early, and legal and administrative compliance is maintained throughout the project lifecycle.
 
 ---
 
