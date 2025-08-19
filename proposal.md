@@ -1,4 +1,4 @@
-# 🛡️ Fori Tech Secure System – Project Proposal
+# 🛡️ ForiTech Secure System – Project Proposal
 
 ## 📌 Executive Summary
 
