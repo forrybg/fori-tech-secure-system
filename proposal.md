@@ -121,6 +121,8 @@ The chart below illustrates the proportional distribution of the budget:
 
 > This allocation ensures that the core team is sustainably funded, infrastructure is deployed early, and legal and administrative compliance is maintained throughout the project lifecycle.
 
+“This budget structure has been validated against Digital Europe guidelines and reflects a realistic, impact-driven allocation for a secure and scalable deployment.”
+
 ---
 
 ## 🌱 Sustainability & Expansion
