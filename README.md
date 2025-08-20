@@ -28,6 +28,7 @@ All key documents are available in the `/docs` folder:
 | `budget.xlsx`         | Budget breakdown (€2M)                     |
 | `ethics.md`           | Ethics statement                           |
 | `loi.md`              | Letters of intent (optional)               |
+| `cover-letter.md`     | Cover letter for EU submission             |
 
 ---
 
