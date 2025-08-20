@@ -152,3 +152,88 @@ ForiTech Secure System is designed with long-term viability in mind. Beyond the 
 - The system is GDPR-compliant and designed for multi-tenant environments, making it suitable for MSPs and enterprise clients.
 
 > Sustainability is embedded in the project's architecture, business model, and community strategy. The grant serves as a launchpad, not a dependency.
+
+# ForiTech Secure System – Project Proposal
+
+## 🧭 Executive Summary
+Brief overview of the project, goals, and strategic relevance to EU cybersecurity and SME empowerment.
+
+## 🎯 Objectives
+Clear definition of what the project aims to achieve, including technical, business, and societal goals.
+
+## 🏗️ Project Description
+Detailed explanation of the system architecture, modules (SIEM, Vault, Web3 licensing), and innovation aspects.
+
+## 👥 Team & Roles
+Overview of the core team, including:
+- Project Coordinator & Technical Lead
+- Full-stack Developers
+- DevOps / Security Engineer
+- UI/UX Designer
+- Business Analyst
+- Marketing Specialist
+- AI/ML Engineer (optional)
+- External Legal & Accounting Support
+
+## 💰 Budget Allocation
+Breakdown of the €2,000,000 grant across categories:
+- Salaries
+- Infrastructure & Equipment
+- Development & Licensing
+- Marketing & Communication
+- Testing & Pilots
+- Administration & Consulting
+- Legal Advisory Firm
+
+## 🌱 Sustainability
+Post-grant strategy including:
+- Commercial deployment
+- Open-source contributions
+- SME partnerships
+- Co-financing and accelerator plans
+
+## 🌍 Impact
+Expected outcomes across:
+- Technical delivery
+- SME empowerment
+- GDPR compliance
+- Economic and social value
+
+## ⚠️ Risk Management
+Identified risks with mitigation strategies:
+- Technical
+- Operational
+- Strategic
+- Legal & Financial
+
+## 📈 KPIs & Expected Outcomes
+Key performance indicators across:
+- Technical milestones
+- SME engagement
+- Sustainability
+- Reporting & compliance
+
+## 📆 Timeline
+18-month breakdown of phases:
+- Setup & Architecture
+- Development & Pilots
+- Optimization & Sustainability
+
+Includes:
+- KPI Timeline
+- Gantt Chart
+- Visual Legend
+
+## 📢 Dissemination & Exploitation Strategy
+How results will be shared:
+- Website and demo
+- SME outreach
+- Open-source publication
+- EU-wide visibility
+
+## 📎 Annexes
+- Letters of Intent (SMEs, partners)
+- Budget spreadsheet (`proposal.xlsx`)
+- Timeline document (`timeline.md`)
+- Visuals (Gantt chart, pie chart)
+
