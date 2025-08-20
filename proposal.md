@@ -153,8 +153,6 @@ ForiTech Secure System is designed with long-term viability in mind. Beyond the 
 
 > Sustainability is embedded in the project's architecture, business model, and community strategy. The grant serves as a launchpad, not a dependency.
 
-# ForiTech Secure System – Project Proposal
-
 ## 🧭 Executive Summary
 Brief overview of the project, goals, and strategic relevance to EU cybersecurity and SME empowerment.
 
