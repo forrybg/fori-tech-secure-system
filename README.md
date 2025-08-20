@@ -43,7 +43,7 @@ All materials are prepared in accordance with EU guidelines and funding criteria
 ## 🤝 Contact
 
 For partnership inquiries or technical collaboration:  
-📧 **fori@techsolutions.bg**
+📧 **forrybg.hh@gmail.com**
 
 ---
 
